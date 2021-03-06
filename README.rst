@@ -1,4 +1,4 @@
-Rigger: Random Identity Generation
+Rigger: (R)andom (I)dentity (G)eneration
 ========================================
 .. image:: https://travis-ci.org/cgdeboer/rigger.svg?branch=master
     :target: https://travis-ci.org/cgdeboer/rigger
@@ -7,10 +7,10 @@ Rigger: Random Identity Generation
     :target: https://pypi.org/project/rigger/
 
 Rigger is a (R)andom (I)dentity (G)enerator implemented in pure python, inspired by
-unix https://www.unix.com/man-page/debian/6/RIG/ .
+unix https://www.unix.com/man-page/debian/6/RIG/.
 
 .. image:: https://raw.githubusercontent.com/cgdeboer/rigger/master/docs/rigger.png
-
+   :height: 150px
 
 Example Code:
 
