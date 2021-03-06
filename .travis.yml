@@ -7,7 +7,7 @@ python:
 
 install:
   - pip install pipenv
-  - pipenv install
+  - pipenv install --system
 
 script:
   - python -m unittest
