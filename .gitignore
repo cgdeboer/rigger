@@ -3,6 +3,4 @@ ___pycache__
 *.pyc
 build/*
 dist/*
-iteround.egg-info/*
-Pipfile
-Pipfile.lock
+rigger.egg-info/*
