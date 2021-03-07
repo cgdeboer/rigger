@@ -9,7 +9,7 @@ Rigger: (R)andom (I)dentity (G)eneration
 **Rigger** is a (r)andom (i)dentity (g)enerator implemented in pure python,
 inspired by RIG_. **Rigger** creates a name, physical mailing address, phone number,
 and email along with a geographically consistent (ie, they all match the same area)
-city, state, ZIP code, and area code.
+city, state, ZIP code, and area code. Currently it is United States identities only.
 
 .. _RIG: https://www.unix.com/man-page/debian/6/RIG/
 
